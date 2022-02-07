@@ -1,0 +1,1 @@
+x=msgbox("Your PC ran into a problem. Please wait.", 0+0, "explorer.exe")
